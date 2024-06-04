@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<h1 text-align: center>## Hi there 👋, I am Pratik</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=500&random=false&width=435&lines=I'm+Data+Analyst;I'm+ML+Enthusiast;I'm+Freelancer" alt="Typing SVG" /></a>
 <!--
 **pratik0527/pratik0527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
