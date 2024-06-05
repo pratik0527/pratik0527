@@ -21,23 +21,19 @@ Here are some ideas to get you started:
 
 <div>
   <h1>Let's know more about me</h1>
-  - 🔭 I’m currently working on Machine Learning/Data Analysis Projects
-  - 🌱 I’m currently learning AWS Cloud Services, Artificial Intelligence and Data Science
+  <p>- 🔭 I’m currently working on Machine Learning/Data Analysis Projects</p>
+  <p>- 🌱 I’m learning AWS Cloud Services, Artificial Intelligence and Data Science</p>
 </div>
 
 <div>
-  <h3>Data Analysis Experience:</h3>
-  <p>
-  •	Identified and rectified data discrepancies through statistical analysis, improving data accuracy by 20%.
-  •	Created 20+ analytical dashboards on Azure SQL, fostering a 40% increase in data processing efficiency.
-  •	Automated routine reporting tasks using Java, reducing manual effort by 60%.
-  </p>
-  <h3>Machine Learning Experience:</h3>
-  <p>
-  •	Achieved 85% accuracy in predicting liver disease outcomes using Naive Bayes Classification.
-  •	Enhanced product quality by 25%, saving an estimated $50,000 annually in costs through ML models.
-  •	Implemented supervised learning for user behavior prediction with a 70% improvement in sales forecasting accuracy.
-  </p>
+  <h4>Data Analysis Experience:</h4>
+  <p>•	Identified and rectified data discrepancies through statistical analysis, improving data accuracy by 20%.</p>
+  <p>•	Created 20+ analytical dashboards on Azure SQL, fostering a 40% increase in data processing efficiency.</p>
+  <p>•	Automated routine reporting tasks using Java, reducing manual effort by 60%.</p>
+  <h4>Machine Learning Experience:</h4>
+  <p>•	Achieved 85% accuracy in predicting liver disease outcomes using Naive Bayes Classification.</p>
+  <p>•	Enhanced product quality by 25%, saving an estimated $50,000 annually in costs through ML models.</p>
+  <p>•	Implemented supervised learning for user behavior prediction with a 70% improvement in sales forecasting accuracy.</p>
 </div>
 
 
