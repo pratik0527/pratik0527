@@ -62,14 +62,14 @@ Here are some ideas to get you started:
 <div>
   <h1>Certifications</h1>
   <div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start;">
-    <div style="flex: 0 0 auto; max-width: 20%; margin: 5px; background-color: #f4f4f4; border-radius: 8px; padding: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); box-sizing: border-box;">
+    <div style="flex: 0 0 30%; max-width: 20%; margin: 5px; background-color: #f4f4f4; border-radius: 8px; padding: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); box-sizing: border-box;">
       <h3>AWS Certified Cloud Practitioner</h3>
       <a href="https://www.credly.com/badges/570c85e5-392f-4737-927a-d06a59c1fd24">
         <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner Certificate" style="width: 150px; height: auto; border-radius: 5px;">
       </a>
       <p><a href="https://www.credly.com/badges/570c85e5-392f-4737-927a-d06a59c1fd24">View Certificate</a></p>
     </div>
-    <div style="flex: 0 0 auto; max-width: 20%; margin: 5px; background-color: #f4f4f4; border-radius: 8px; padding: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); box-sizing: border-box;">
+    <div style="flex: 0 0 30%; max-width: 20%; margin: 5px; background-color: #f4f4f4; border-radius: 8px; padding: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); box-sizing: border-box;">
       <h3>Hackerrank SQL Advanced</h3>
       <a href="https://www.hackerrank.com/certificates/424f3d7b8a3d">
         <img src="https://miro.medium.com/v2/resize:fit:1400/1*j1_l1kaSaC_LHIC40mthNw.png" alt="Hackerrank SQL Advanced Certificate" style="width: 150px; height: auto; border-radius: 5px;">
