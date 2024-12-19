@@ -62,20 +62,29 @@ Here are some ideas to get you started:
 <div>
   <h1>Certifications</h1>
   <div style="width: 90%; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <div style="flex: 1 1 30%; margin: 10px; background-color: #f4f4f4; border-radius: 8px; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <div style="flex: 0 0 28%; margin: 5px; background-color: #f4f4f4; border-radius: 8px; padding: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
       <h3>AWS Certified Cloud Practitioner</h3>
       <a href="https://www.credly.com/badges/570c85e5-392f-4737-927a-d06a59c1fd24">
-        <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner Certificate" style="width: 25%; height: auto; border-radius: 5px;">
+        <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner Certificate" style="width: 100%; height: auto; border-radius: 5px;">
       </a>
       <p><a href="https://www.credly.com/badges/570c85e5-392f-4737-927a-d06a59c1fd24">View Certificate</a></p>
     </div>
-    <div style="flex: 1 1 30%; margin: 10px; background-color: #f4f4f4; border-radius: 8px; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <div style="flex: 0 0 28%; margin: 5px; background-color: #f4f4f4; border-radius: 8px; padding: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
       <h3>Hackerrank SQL Advanced</h3>
       <a href="https://www.hackerrank.com/certificates/424f3d7b8a3d">
-        <img src="https://miro.medium.com/v2/resize:fit:1400/1*j1_l1kaSaC_LHIC40mthNw.png" alt="Hackerrank SQL Advanced Certificate" style="width: 25%; height: auto; border-radius: 5px;">
+        <img src="https://miro.medium.com/v2/resize:fit:1400/1*j1_l1kaSaC_LHIC40mthNw.png" alt="Hackerrank SQL Advanced Certificate" style="width: 100%; height: auto; border-radius: 5px;">
       </a>
       <p><a href="https://www.hackerrank.com/certificates/424f3d7b8a3d">View Certificate</a></p>
     </div>
+    <!-- Adjust similar settings for the third certification -->
+   <!-- <div style="flex: 0 0 28%; margin: 5px; background-color: #f4f4f4; border-radius: 8px; padding: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+      <h3>Third Certification</h3>
+      <a href="URL_TO_THIRD_CERTIFICATE">
+        <img src="URL_TO_THIRD_CERTIFICATE_IMAGE" alt="Third Certificate" style="width: 100%; height: auto; border-radius: 5px;">
+      </a>
+      <p><a href="URL_TO_THIRD_CERTIFICATE">View Certificate</a></p>
+    </div> -->
   </div>
 </div>
+
 
